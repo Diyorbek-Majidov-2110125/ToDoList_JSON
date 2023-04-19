@@ -1,0 +1,49 @@
+{
+    "Tasks": [
+        {
+            "id": 1,
+            "title": "Learn Golang",
+            "completed": false,
+            "description": "Learn Golang and Postgres",
+            "dueDate": "2023-04-12",
+            "priority": "medium",
+            "startDate": "2023-01-01"
+        },
+        {
+            "id": 2,
+            "title": "Learn English",
+            "completed": false,
+            "description": "Learn English and speak",
+            "dueDate": "2023-03-23",
+            "priority": "high",
+            "startDate": "2023-01-01"
+        },
+        {
+            "id": 3,
+            "title": "Learn Java",
+            "completed": false,
+            "description": "Learn Java and Postgres",
+            "dueDate": "2023-09-19",
+            "priority": "high",
+            "startDate": "2023-01-05"
+        },
+        {
+            "id": 4,
+            "title": "Russian",
+            "completed": true,
+            "description": "Become fluent in Russian",
+            "dueDate": "2024-01-01",
+            "priority": "high",
+            "startDate": "2023-03-30"
+        },
+        {
+            "id": 5,
+            "title": "Learning Russian",
+            "completed": true,
+            "description": "dafasfsaf",
+            "dueDate": "1234",
+            "priority": "high",
+            "startDate": "1234123414"
+        }
+    ]
+}
